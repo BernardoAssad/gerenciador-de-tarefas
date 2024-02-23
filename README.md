@@ -1,7 +1,7 @@
 # Gerenciador de Tarefas
 
 ### Organize suas atividades diárias com esse projeto!
-#### Link do post no LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7166585537934438400/?originalSubdomain=pt
+#### Link do post no LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7166585537934438400
 
 <br>
 Projeto feito para treinamento pessoal em conhecimentos com HTML, CSS, JavaScript, PHP, Bootstrap e MySQL. 
